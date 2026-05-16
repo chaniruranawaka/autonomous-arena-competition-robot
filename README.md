@@ -22,12 +22,12 @@ The main objective was to design an autonomous robot that could navigate the are
 
 ## Hardware Used
 
-- Microcontroller: [Add your board name here]
-- Motor driver: [Add motor driver name here]
-- DC motors / geared motors
+- Microcontroller: Arduino Mega
+- Motor driver: L298N
+- DC geared motors
 - Wheels / chassis
-- Sensors: [Add sensor names here]
-- Power supply: [Add battery details here]
+- Sensors: ToF/ TCS34725/ Raykha 8 bit IR Array
+- Power supply: 4 x 3.7v Li-ion 1800mAh battery pack
 - Other mechanical components
 
 ## Software and Tools
