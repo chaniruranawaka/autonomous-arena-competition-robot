@@ -62,7 +62,7 @@ The robot was designed to complete arena tasks autonomously by processing sensor
 ![Top View](autonomous-arena-competition-robot/images/robot-top-view.jpg)
 
 ### Side View
-![Side View](autonomous-arena-competition-robot/images/robot-side-view.jpg)
+![Side View](images/robot-side-view.jpg)
 
 ## Code
 
