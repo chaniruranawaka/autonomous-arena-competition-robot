@@ -32,11 +32,11 @@ The main objective was to design an autonomous robot that could navigate the are
 
 ## Software and Tools
 
-- Arduino C++ / PlatformIO
+- Arduino C++
 - Embedded motor control
 - Sensor calibration
 - Autonomous task logic
-- SolidWorks / mechanical design tools, if used
+- Mechanical design tools - SolidWorks
 
 ## My Contribution
 
@@ -47,7 +47,7 @@ My main contributions included:
 - Autonomous logic development
 - Motor control tuning
 - Testing and debugging
-- Mechanical/electrical assembly support
+- Mechanical/electrical assembly
 
 ## Robot Design
 
