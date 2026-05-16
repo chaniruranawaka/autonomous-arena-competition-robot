@@ -56,10 +56,10 @@ The robot was designed to complete arena tasks autonomously by processing sensor
 ## Project Images
 
 ### Final Robot
-![Final Robot](autonomous-arena-competition-robot/images/final-robot.jpg)
+![Final Robot](images/final-robot.jpg)
 
 ### Top View
-![Top View](autonomous-arena-competition-robot/images/robot-top-view.jpg)
+![Top View](images/robot-top-view.jpg)
 
 ### Side View
 ![Side View](images/robot-side-view.jpg)
